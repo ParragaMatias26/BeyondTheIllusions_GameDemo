@@ -7,7 +7,7 @@
 ## 🎮 Descripción
 
 Beyond The Illusions es una aventura en desarrollo creada en **Unity**, que combina exploración, narrativa y mecánicas de acción en un mundo inmersivo.  
-Esta versión es una **demo jugable** pensada para mostrar las mecánicas base, la dirección artística y el tono general del proyecto.
+Esta versión es una **demo** pensada para mostrar las mecánicas base, la dirección artística y el tono general del proyecto.
 
 > _“Una aventura tanto tierna como grotesca donde nuestra percepción de la realidad irá cambiando a lo largo del viaje para superar obstáculos.”_
 
@@ -15,11 +15,10 @@ Esta versión es una **demo jugable** pensada para mostrar las mecánicas base, 
 
 ## ✨ Características Principales
 
-- 🌿 Mundo artístico inspirado en la naturaleza y la fantasía.  
-- ⚔️ Sistema de combate por turnos (prototipo funcional).  
-- 🧩 Puzzles y desafíos ambientales.  
-- 🧠 Elementos psicológicos y cambios de percepción.  
-- 🎵 Ambientación sonora inmersiva original.  
+- 🌿 Mundo artístico inspirado en el pastel gore mezclando una estetica tierna con una grotesca y oscura.  
+- ⚔️ Sistema de combate estilo RPG / Hack&Slash TopDown.  
+- 🧩 Puzzles y desafíos ambientales con interacciones en las diferentes realidades.  
+- 🧠 Elementos psicológicos y cambios de percepción.
 
 ---
 
@@ -47,27 +46,27 @@ Esta versión es una **demo jugable** pensada para mostrar las mecánicas base, 
 **Matías Párraga**  
 Desarrollador independiente de videojuegos enfocado en diseño de sistemas, narrativa interactiva y dirección visual.  
 
-📫 Contacto: [tuemail@example.com]
+📫 Contacto: [matias.parraga.trabajo@gmail.com]
 
 ## 🧑‍💻 Artist
 **Miaela Lo Valvo**
 Artista enfocada en diseños y animaciones pixelart.
 
-📫 Contacto: [tuemail@example.com]
+📫 Contacto: [micaela.lo@davinci.edu.ar]
 
 ---
 
-## 📸 Capturas (opcional)
+## 📸 Capturas
 
 <img width="1919" height="1079" alt="Screenshot 1 BTI" src="https://github.com/user-attachments/assets/b8029b67-c28f-451e-a315-1e6010207607" />
 <img width="1918" height="1079" alt="Screenshot 2 BTI" src="https://github.com/user-attachments/assets/bcd5f9e9-1a4d-491d-9778-0b94324883ef" />
 
-|------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 🪄 Créditos
 
-- **Game Design / Programming:** Matías [Apellido]  
-- **Arte / Concepto:** [Nombre del artista, si aplica]  
+- **Game Design / Programming / Tecnical Art:** Matías Párraga
+- **Arte / Animaciones / UI:** Micaela Lo Valvo
 
 ---
 
