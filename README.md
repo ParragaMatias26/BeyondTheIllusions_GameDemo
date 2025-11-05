@@ -60,9 +60,9 @@ Artista enfocada en diseños y animaciones pixelart.
 ## 📸 Capturas (opcional)
 
 <img width="1919" height="1079" alt="Screenshot 1 BTI" src="https://github.com/user-attachments/assets/b8029b67-c28f-451e-a315-1e6010207607" />
-<img width="1919" height="817" alt="Screenshot 2 BTI" src="https://github.com/user-attachments/assets/50951b44-f455-4b6a-9cb3-d493690c4350" />
+<img width="1918" height="1079" alt="Screenshot 2 BTI" src="https://github.com/user-attachments/assets/bcd5f9e9-1a4d-491d-9778-0b94324883ef" />
 
-|-----------------------------------------------------------|-----------------------------------------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 🪄 Créditos
 
