@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11f424d7ec8384c4e941718cba9a87f8, type: 3}
+  m_Name: UIA_DW_TakeDamage
+  m_EditorClassIdentifier: 
+  animationName: DarkTakeDamage
+  frames:
+  - {fileID: -1088373023490836675, guid: 033fecc8537885b4aa73e205c69cd551, type: 3}
+  - {fileID: -3257116278877283134, guid: 033fecc8537885b4aa73e205c69cd551, type: 3}
+  - {fileID: 4241975364264766936, guid: 033fecc8537885b4aa73e205c69cd551, type: 3}
+  - {fileID: -304487567264512183, guid: 033fecc8537885b4aa73e205c69cd551, type: 3}
+  - {fileID: -665263742159067311, guid: 033fecc8537885b4aa73e205c69cd551, type: 3}
+  - {fileID: -8981456825196398422, guid: 033fecc8537885b4aa73e205c69cd551, type: 3}
+  frameRate: 12
+  loop: 0
+  hasExitTime: 1

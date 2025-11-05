@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 43f17b397d3a60045961962ba9feb2a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4505689044755353097
+    second: DarkWorld-BossCamp-352x272_0
+  - first:
+      213: -4263448700400343742
+    second: DarkWorld-BossCamp-352x272_1
+  - first:
+      213: -628280972333660334
+    second: DarkWorld-BossCamp-352x272_2
+  - first:
+      213: -196068965436102194
+    second: DarkWorld-BossCamp-352x272_3
+  - first:
+      213: 7176884958569435796
+    second: DarkWorld-BossCamp-352x272_4
+  - first:
+      213: -5774568687609780380
+    second: DarkWorld-BossCamp-352x272_5
+  - first:
+      213: 1773893401911057216
+    second: DarkWorld-BossCamp-352x272_6
+  - first:
+      213: -3323075605226954521
+    second: DarkWorld-BossCamp-352x272_7
+  - first:
+      213: 919512819120428768
+    second: DarkWorld-BossCamp-352x272_8
+  - first:
+      213: 4496979652974330404
+    second: DarkWorld-BossCamp-352x272_9
+  - first:
+      213: 1810917841118540473
+    second: DarkWorld-BossCamp-352x272_10
+  - first:
+      213: -3775813098594282383
+    second: DarkWorld-BossCamp-352x272_11
+  - first:
+      213: -6366612108768264008
+    second: DarkWorld-BossCamp-352x272_12
+  - first:
+      213: 3957486944807811415
+    second: DarkWorld-BossCamp-352x272_13
+  - first:
+      213: -4451953828993313694
+    second: DarkWorld-BossCamp-352x272_14
+  - first:
+      213: 105258344181180793
+    second: DarkWorld-BossCamp-352x272_15
+  - first:
+      213: -1812509045108431246
+    second: DarkWorld-BossCamp-352x272_16
+  - first:
+      213: -4976608691149864967
+    second: DarkWorld-BossCamp-352x272_17
+  - first:
+      213: -1811960038208848927
+    second: DarkWorld-BossCamp-352x272_18
+  - first:
+      213: 4284645565978805213
+    second: DarkWorld-BossCamp-352x272_19
+  - first:
+      213: -7633002536587173197
+    second: DarkWorld-BossCamp-352x272_20
+  - first:
+      213: 4017202375083210593
+    second: DarkWorld-BossCamp-352x272_21
+  - first:
+      213: -8486094663411768234
+    second: DarkWorld-BossCamp-352x272_22
+  - first:
+      213: -1585423737754382395
+    second: DarkWorld-BossCamp-352x272_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e0305605c678e30800000000000000
+      internalID: 4505689044755353097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1088
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a28b36d80e1ad438dc0ce31cbaf177
+      internalID: -4263448700400343742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1088
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e48561bad2b5b94aba09d9e345be60a
+      internalID: -628280972333660334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_3
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1088
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b7454e1a1723040bba020d1fd9d672
+      internalID: -196068965436102194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1088
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511784f1300964b4aa97f20842394adb
+      internalID: 7176884958569435796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c909f63c7e0b34a4ea9d943d612cc554
+      internalID: -5774568687609780380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 816
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe03908c0cfa19c418ea401e92a8a67e
+      internalID: 1773893401911057216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 816
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534b0fd456f4c464db44a2c9b807f46d
+      internalID: -3323075605226954521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 816
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ac112b05d3f8b46a020b41cb06e699
+      internalID: 919512819120428768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_9
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 816
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13df7edbcbec1c4b82176024ef97109
+      internalID: 4496979652974330404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8170e302db2c507418de6c9e0e69db70
+      internalID: 1810917841118540473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 544
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d148dae5abba442911b27df8afc75f
+      internalID: -3775813098594282383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 544
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e583e0aae6b964693933d1fc45cba1
+      internalID: -6366612108768264008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_13
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 544
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5610d22e1e03b4dba9e5e6fa30b756
+      internalID: 3957486944807811415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_14
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 544
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5def61f9b9a9c4892483f21bd4754a
+      internalID: -4451953828993313694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84074fc62dc539542addcb29b3f2b651
+      internalID: 105258344181180793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 272
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8416a660ebbc294d98455ddf2c8d7bc
+      internalID: -1812509045108431246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 272
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf18c918b787014aa139b61984f57a6
+      internalID: -4976608691149864967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_18
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 272
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6351bd608c717af4199441472f68c113
+      internalID: -1811960038208848927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_19
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 272
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5996575b1face1340bd7279e632ed495
+      internalID: 4284645565978805213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840fc5f9ebcbc0b489814f5799a1658b
+      internalID: -7633002536587173197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85e9150171dda440bd87519ce9ed5c6
+      internalID: 4017202375083210593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b819280502dc64597a752c8b18de26
+      internalID: -8486094663411768234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-BossCamp-352x272_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1bb5e97354dd5448badcbc34f7bf42
+      internalID: -1585423737754382395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c785d6793aa1b9f488d0d0f6b5bacb1e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DarkWorld-BossCamp-352x272_0: 4505689044755353097
+      DarkWorld-BossCamp-352x272_1: -4263448700400343742
+      DarkWorld-BossCamp-352x272_10: 1810917841118540473
+      DarkWorld-BossCamp-352x272_11: -3775813098594282383
+      DarkWorld-BossCamp-352x272_12: -6366612108768264008
+      DarkWorld-BossCamp-352x272_13: 3957486944807811415
+      DarkWorld-BossCamp-352x272_14: -4451953828993313694
+      DarkWorld-BossCamp-352x272_15: 105258344181180793
+      DarkWorld-BossCamp-352x272_16: -1812509045108431246
+      DarkWorld-BossCamp-352x272_17: -4976608691149864967
+      DarkWorld-BossCamp-352x272_18: -1811960038208848927
+      DarkWorld-BossCamp-352x272_19: 4284645565978805213
+      DarkWorld-BossCamp-352x272_2: -628280972333660334
+      DarkWorld-BossCamp-352x272_20: -7633002536587173197
+      DarkWorld-BossCamp-352x272_21: 4017202375083210593
+      DarkWorld-BossCamp-352x272_22: -8486094663411768234
+      DarkWorld-BossCamp-352x272_23: -1585423737754382395
+      DarkWorld-BossCamp-352x272_3: -196068965436102194
+      DarkWorld-BossCamp-352x272_4: 7176884958569435796
+      DarkWorld-BossCamp-352x272_5: -5774568687609780380
+      DarkWorld-BossCamp-352x272_6: 1773893401911057216
+      DarkWorld-BossCamp-352x272_7: -3323075605226954521
+      DarkWorld-BossCamp-352x272_8: 919512819120428768
+      DarkWorld-BossCamp-352x272_9: 4496979652974330404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: 08cae11ac59af884c863397e1ddc38e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7369417208422853795
+    second: PlayerDeadAnim_Flamingo_0
+  - first:
+      213: 845854704314881686
+    second: PlayerDeadAnim_Flamingo_1
+  - first:
+      213: 5455129252687676479
+    second: PlayerDeadAnim_Flamingo_2
+  - first:
+      213: -7525397957583104278
+    second: PlayerDeadAnim_Flamingo_3
+  - first:
+      213: 7866473467736519325
+    second: PlayerDeadAnim_Flamingo_4
+  - first:
+      213: 6534673348084180265
+    second: PlayerDeadAnim_Flamingo_5
+  - first:
+      213: -3922077258515523980
+    second: PlayerDeadAnim_Flamingo_6
+  - first:
+      213: 7601003629533848235
+    second: PlayerDeadAnim_Flamingo_7
+  - first:
+      213: -6540821735535643148
+    second: PlayerDeadAnim_Flamingo_8
+  - first:
+      213: 5918689582633003650
+    second: PlayerDeadAnim_Flamingo_9
+  - first:
+      213: 3793540500838683664
+    second: PlayerDeadAnim_Flamingo_10
+  - first:
+      213: -4107201050823196281
+    second: PlayerDeadAnim_Flamingo_11
+  - first:
+      213: -7188978284474333708
+    second: PlayerDeadAnim_Flamingo_12
+  - first:
+      213: 3392147311405872542
+    second: PlayerDeadAnim_Flamingo_13
+  - first:
+      213: 8043076402413137921
+    second: PlayerDeadAnim_Flamingo_14
+  - first:
+      213: -5762327788264934242
+    second: PlayerDeadAnim_Flamingo_15
+  - first:
+      213: 869688935092544716
+    second: PlayerDeadAnim_Flamingo_16
+  - first:
+      213: 8812146402389083322
+    second: PlayerDeadAnim_Flamingo_17
+  - first:
+      213: 2388424711922197392
+    second: PlayerDeadAnim_Flamingo_18
+  - first:
+      213: -7562639993274177239
+    second: PlayerDeadAnim_Flamingo_19
+  - first:
+      213: 8269439145326873961
+    second: PlayerDeadAnim_Flamingo_20
+  - first:
+      213: 5114208816920257477
+    second: PlayerDeadAnim_Flamingo_21
+  - first:
+      213: 4804734215696549002
+    second: PlayerDeadAnim_Flamingo_22
+  - first:
+      213: 2020970376653807411
+    second: PlayerDeadAnim_Flamingo_23
+  - first:
+      213: -6546325209848115287
+    second: PlayerDeadAnim_Flamingo_24
+  - first:
+      213: -5174691736818624064
+    second: PlayerDeadAnim_Flamingo_25
+  - first:
+      213: 2168696054855782204
+    second: PlayerDeadAnim_Flamingo_26
+  - first:
+      213: 1950221524610021226
+    second: PlayerDeadAnim_Flamingo_27
+  - first:
+      213: -1475929956873318611
+    second: PlayerDeadAnim_Flamingo_28
+  - first:
+      213: 4170944344528920497
+    second: PlayerDeadAnim_Flamingo_29
+  - first:
+      213: 8697755019452593668
+    second: PlayerDeadAnim_Flamingo_30
+  - first:
+      213: -9171087264374393815
+    second: PlayerDeadAnim_Flamingo_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ace1bdf7ed654660800000000000000
+      internalID: 7369417208422853795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696184e3f541dbb00800000000000000
+      internalID: 845854704314881686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f348a4e172384bb40800000000000000
+      internalID: 5455129252687676479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae61fc8cd6a609790800000000000000
+      internalID: -7525397957583104278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d927877c0f35b2d60800000000000000
+      internalID: 7866473467736519325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92525c3b9c2dfaa50800000000000000
+      internalID: 6534673348084180265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4765b80738bf199c0800000000000000
+      internalID: -3922077258515523980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2e1da77803c7960800000000000000
+      internalID: 7601003629533848235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f57e3a49455a35a0800000000000000
+      internalID: -6540821735535643148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a25ac11d8632250800000000000000
+      internalID: 5918689582633003650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0141c898cfc55a430800000000000000
+      internalID: 3793540500838683664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7818298b76a4007c0800000000000000
+      internalID: -4107201050823196281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f509efc65e9b3c90800000000000000
+      internalID: -7188978284474333708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95b422e104531f20800000000000000
+      internalID: 3392147311405872542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100792bbf5fbe9f60800000000000000
+      internalID: 8043076402413137921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDeadAnim_Flamingo_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e943b1d18691800b0800000000000000
+      internalID: -5762327788264934242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d7df2a446b4b5f74ea920670499cceba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerDeadAnim_Flamingo_0: 7369417208422853795
+      PlayerDeadAnim_Flamingo_1: 845854704314881686
+      PlayerDeadAnim_Flamingo_10: 3793540500838683664
+      PlayerDeadAnim_Flamingo_11: -4107201050823196281
+      PlayerDeadAnim_Flamingo_12: -7188978284474333708
+      PlayerDeadAnim_Flamingo_13: 3392147311405872542
+      PlayerDeadAnim_Flamingo_14: 8043076402413137921
+      PlayerDeadAnim_Flamingo_15: -5762327788264934242
+      PlayerDeadAnim_Flamingo_2: 5455129252687676479
+      PlayerDeadAnim_Flamingo_3: -7525397957583104278
+      PlayerDeadAnim_Flamingo_4: 7866473467736519325
+      PlayerDeadAnim_Flamingo_5: 6534673348084180265
+      PlayerDeadAnim_Flamingo_6: -3922077258515523980
+      PlayerDeadAnim_Flamingo_7: 7601003629533848235
+      PlayerDeadAnim_Flamingo_8: -6540821735535643148
+      PlayerDeadAnim_Flamingo_9: 5918689582633003650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

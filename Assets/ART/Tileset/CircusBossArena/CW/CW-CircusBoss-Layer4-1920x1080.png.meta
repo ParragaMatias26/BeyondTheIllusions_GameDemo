@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 1725256ffb9ba1d49bf2d51f3ad11030
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5569878682018186594
+    second: CW-CircusBoss-Layer4-1920x1080_0
+  - first:
+      213: 2378061323190549087
+    second: CW-CircusBoss-Layer4-1920x1080_1
+  - first:
+      213: -2603343619911476133
+    second: CW-CircusBoss-Layer4-1920x1080_2
+  - first:
+      213: -19362367497124441
+    second: CW-CircusBoss-Layer4-1920x1080_3
+  - first:
+      213: -4375384565510857863
+    second: CW-CircusBoss-Layer4-1920x1080_4
+  - first:
+      213: 358995060775075233
+    second: CW-CircusBoss-Layer4-1920x1080_5
+  - first:
+      213: -6665922418684836100
+    second: CW-CircusBoss-Layer4-1920x1080_6
+  - first:
+      213: 5294502792068000346
+    second: CW-CircusBoss-Layer4-1920x1080_7
+  - first:
+      213: -666518055569853482
+    second: CW-CircusBoss-Layer4-1920x1080_8
+  - first:
+      213: 2549146852637501228
+    second: CW-CircusBoss-Layer4-1920x1080_9
+  - first:
+      213: -1959864200524176893
+    second: CW-CircusBoss-Layer4-1920x1080_10
+  - first:
+      213: 98750996949516753
+    second: CW-CircusBoss-Layer4-1920x1080_11
+  - first:
+      213: -948723855883137559
+    second: CW-CircusBoss-Layer4-1920x1080_12
+  - first:
+      213: -8894647700002008268
+    second: CW-CircusBoss-Layer4-1920x1080_13
+  - first:
+      213: 8653072481836622530
+    second: CW-CircusBoss-Layer4-1920x1080_14
+  - first:
+      213: 457852240141396964
+    second: CW-CircusBoss-Layer4-1920x1080_15
+  - first:
+      213: 4485136085093256450
+    second: CW-CircusBoss-Layer4-1920x1080_16
+  - first:
+      213: -6847394934253328375
+    second: CW-CircusBoss-Layer4-1920x1080_17
+  - first:
+      213: -139467173332149966
+    second: CW-CircusBoss-Layer4-1920x1080_18
+  - first:
+      213: 3630920816399387056
+    second: CW-CircusBoss-Layer4-1920x1080_19
+  - first:
+      213: -2665890454173726940
+    second: CW-CircusBoss-Layer4-1920x1080_20
+  - first:
+      213: 2656095701775405844
+    second: CW-CircusBoss-Layer4-1920x1080_21
+  - first:
+      213: -1307236555386891
+    second: CW-CircusBoss-Layer4-1920x1080_22
+  - first:
+      213: -8845835421352382556
+    second: CW-CircusBoss-Layer4-1920x1080_23
+  - first:
+      213: -2280311339724426636
+    second: CW-CircusBoss-Layer4-1920x1080_24
+  - first:
+      213: -7301742943419795627
+    second: CW-CircusBoss-Layer4-1920x1080_25
+  - first:
+      213: 3444719219899192690
+    second: CW-CircusBoss-Layer4-1920x1080_26
+  - first:
+      213: -2734531130699452113
+    second: CW-CircusBoss-Layer4-1920x1080_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_0
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 834
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26507bb962f2c4d40800000000000000
+      internalID: 5569878682018186594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_1
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 862
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a3ed68c22900120800000000000000
+      internalID: 2378061323190549087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_2
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 862
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c95e255c01fdbd0800000000000000
+      internalID: -2603343619911476133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 834
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5c25387063bbff0800000000000000
+      internalID: -19362367497124441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_4
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 782
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b9ff06be28743c0800000000000000
+      internalID: -4375384565510857863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_5
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 807
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad3e911b186bf400800000000000000
+      internalID: 358995060775075233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_6
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 807
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64af5b0e2ed73a0800000000000000
+      internalID: -6665922418684836100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 782
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ae687ec3ad97940800000000000000
+      internalID: 5294502792068000346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_8
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 725
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3ff5d1c5d00c6f0800000000000000
+      internalID: -666518055569853482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_9
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 753
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2763c77e83606320800000000000000
+      internalID: 2549146852637501228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_10
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 753
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30260c7b4e92dc4e0800000000000000
+      internalID: -1959864200524176893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_11
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 725
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1446e2285de5100800000000000000
+      internalID: 98750996949516753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 697
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed852cfda475d2f0800000000000000
+      internalID: -948723855883137559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_13
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 697
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433922fea0ddf8480800000000000000
+      internalID: -8894647700002008268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_14
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 282
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c264978393e51870800000000000000
+      internalID: 8653072481836622530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_15
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 252
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebae35cf2e9a5600800000000000000
+      internalID: 457852240141396964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_16
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 252
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d054191876e3e30800000000000000
+      internalID: 4485136085093256450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_17
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 282
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908650b169a29f0a0800000000000000
+      internalID: -6847394934253328375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_18
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 229
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23995b34853801ef0800000000000000
+      internalID: -139467173332149966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_19
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 229
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b98e0dbe3f936230800000000000000
+      internalID: 3630920816399387056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_20
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 203
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427ced4a1cad00bd0800000000000000
+      internalID: -2665890454173726940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_21
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 170
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413d3c9d7f85cd420800000000000000
+      internalID: 2656095701775405844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_22
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 170
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff8a75431b5bfff0800000000000000
+      internalID: -1307236555386891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 203
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af29b03d874d3580800000000000000
+      internalID: -8845835421352382556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_24
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 146
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4723e6a0be4ba50e0800000000000000
+      internalID: -2280311339724426636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_25
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 118
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5577f30ba7ffaaa90800000000000000
+      internalID: -7301742943419795627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_26
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 118
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2755d0d21e91ecf20800000000000000
+      internalID: 3444719219899192690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW-CircusBoss-Layer4-1920x1080_27
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 146
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21796fbc6efc0ad0800000000000000
+      internalID: -2734531130699452113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CW-CircusBoss-Layer4-1920x1080_0: 5569878682018186594
+      CW-CircusBoss-Layer4-1920x1080_1: 2378061323190549087
+      CW-CircusBoss-Layer4-1920x1080_10: -1959864200524176893
+      CW-CircusBoss-Layer4-1920x1080_11: 98750996949516753
+      CW-CircusBoss-Layer4-1920x1080_12: -948723855883137559
+      CW-CircusBoss-Layer4-1920x1080_13: -8894647700002008268
+      CW-CircusBoss-Layer4-1920x1080_14: 8653072481836622530
+      CW-CircusBoss-Layer4-1920x1080_15: 457852240141396964
+      CW-CircusBoss-Layer4-1920x1080_16: 4485136085093256450
+      CW-CircusBoss-Layer4-1920x1080_17: -6847394934253328375
+      CW-CircusBoss-Layer4-1920x1080_18: -139467173332149966
+      CW-CircusBoss-Layer4-1920x1080_19: 3630920816399387056
+      CW-CircusBoss-Layer4-1920x1080_2: -2603343619911476133
+      CW-CircusBoss-Layer4-1920x1080_20: -2665890454173726940
+      CW-CircusBoss-Layer4-1920x1080_21: 2656095701775405844
+      CW-CircusBoss-Layer4-1920x1080_22: -1307236555386891
+      CW-CircusBoss-Layer4-1920x1080_23: -8845835421352382556
+      CW-CircusBoss-Layer4-1920x1080_24: -2280311339724426636
+      CW-CircusBoss-Layer4-1920x1080_25: -7301742943419795627
+      CW-CircusBoss-Layer4-1920x1080_26: 3444719219899192690
+      CW-CircusBoss-Layer4-1920x1080_27: -2734531130699452113
+      CW-CircusBoss-Layer4-1920x1080_3: -19362367497124441
+      CW-CircusBoss-Layer4-1920x1080_4: -4375384565510857863
+      CW-CircusBoss-Layer4-1920x1080_5: 358995060775075233
+      CW-CircusBoss-Layer4-1920x1080_6: -6665922418684836100
+      CW-CircusBoss-Layer4-1920x1080_7: 5294502792068000346
+      CW-CircusBoss-Layer4-1920x1080_8: -666518055569853482
+      CW-CircusBoss-Layer4-1920x1080_9: 2549146852637501228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

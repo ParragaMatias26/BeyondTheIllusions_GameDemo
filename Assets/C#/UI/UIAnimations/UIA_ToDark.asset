@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11f424d7ec8384c4e941718cba9a87f8, type: 3}
+  m_Name: UIA_ToDark
+  m_EditorClassIdentifier: 
+  animationName: ToDark
+  frames:
+  - {fileID: 4788756145442624336, guid: 1567bd937a1e50646a9ed283c74f96c4, type: 3}
+  - {fileID: 6367895012605438946, guid: 1567bd937a1e50646a9ed283c74f96c4, type: 3}
+  - {fileID: 6063691728083826135, guid: 1567bd937a1e50646a9ed283c74f96c4, type: 3}
+  - {fileID: -5851412848643041656, guid: 1567bd937a1e50646a9ed283c74f96c4, type: 3}
+  - {fileID: 465258999131407644, guid: 1567bd937a1e50646a9ed283c74f96c4, type: 3}
+  - {fileID: -6122071928657321168, guid: 1567bd937a1e50646a9ed283c74f96c4, type: 3}
+  - {fileID: 4350183006514211475, guid: 1567bd937a1e50646a9ed283c74f96c4, type: 3}
+  - {fileID: 6587261177136921107, guid: 1567bd937a1e50646a9ed283c74f96c4, type: 3}
+  frameRate: 12
+  loop: 0
+  hasExitTime: 1

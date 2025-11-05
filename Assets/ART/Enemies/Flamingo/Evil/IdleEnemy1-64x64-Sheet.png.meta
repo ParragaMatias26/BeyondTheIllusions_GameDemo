@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 4c8ffef0fd9f95f4da925f3a10292fa5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3411135937833845039
+    second: IdleEnemy1-64x64-Sheet_0
+  - first:
+      213: 8038254806656564352
+    second: IdleEnemy1-64x64-Sheet_1
+  - first:
+      213: 4276353292662106355
+    second: IdleEnemy1-64x64-Sheet_2
+  - first:
+      213: -2688716920334211078
+    second: IdleEnemy1-64x64-Sheet_3
+  - first:
+      213: -544108994060436970
+    second: IdleEnemy1-64x64-Sheet_4
+  - first:
+      213: -2904760987035733800
+    second: IdleEnemy1-64x64-Sheet_5
+  - first:
+      213: -1841354146993454353
+    second: IdleEnemy1-64x64-Sheet_6
+  - first:
+      213: -7722404970770178076
+    second: IdleEnemy1-64x64-Sheet_7
+  - first:
+      213: -7760411626915256711
+    second: IdleEnemy1-64x64-Sheet_8
+  - first:
+      213: -6968896565617775498
+    second: IdleEnemy1-64x64-Sheet_9
+  - first:
+      213: 1661599886880290886
+    second: IdleEnemy1-64x64-Sheet_10
+  - first:
+      213: -3115368117109988515
+    second: IdleEnemy1-64x64-Sheet_11
+  - first:
+      213: -8283184391208443020
+    second: IdleEnemy1-64x64-Sheet_12
+  - first:
+      213: 2350392844749835669
+    second: IdleEnemy1-64x64-Sheet_13
+  - first:
+      213: 6642474728087108190
+    second: IdleEnemy1-64x64-Sheet_14
+  - first:
+      213: 1635642725452856019
+    second: IdleEnemy1-64x64-Sheet_15
+  - first:
+      213: -1550104446592014857
+    second: IdleEnemy1-64x64-Sheet_16
+  - first:
+      213: -3972405039550865648
+    second: IdleEnemy1-64x64-Sheet_17
+  - first:
+      213: -1831398533278411300
+    second: IdleEnemy1-64x64-Sheet_18
+  - first:
+      213: -2067134755750596587
+    second: IdleEnemy1-64x64-Sheet_19
+  - first:
+      213: 3845547945042815964
+    second: IdleEnemy1-64x64-Sheet_20
+  - first:
+      213: -4574425280501992601
+    second: IdleEnemy1-64x64-Sheet_21
+  - first:
+      213: -2070916645664571370
+    second: IdleEnemy1-64x64-Sheet_22
+  - first:
+      213: -7915113727017863555
+    second: IdleEnemy1-64x64-Sheet_23
+  - first:
+      213: -1842903451486857949
+    second: IdleEnemy1-64x64-Sheet_24
+  - first:
+      213: -7888420838930244326
+    second: IdleEnemy1-64x64-Sheet_25
+  - first:
+      213: -8836996984696195128
+    second: IdleEnemy1-64x64-Sheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleEnemy1-64x64-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de38d000f539a0d0800000000000000
+      internalID: -3411135937833845039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleEnemy1-64x64-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c37dc782e9d8f60800000000000000
+      internalID: 8038254806656564352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleEnemy1-64x64-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8623f99a8a85b30800000000000000
+      internalID: 4276353292662106355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleEnemy1-64x64-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7a5e5d432cfaad0800000000000000
+      internalID: -2688716920334211078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleEnemy1-64x64-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61abee1b0cfe278f0800000000000000
+      internalID: -544108994060436970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleEnemy1-64x64-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0725ab54730b7d0800000000000000
+      internalID: -2904760987035733800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleEnemy1-64x64-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe243c2c8223276e0800000000000000
+      internalID: -1841354146993454353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleEnemy1-64x64-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef5889189184d490800000000000000
+      internalID: -7722404970770178076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleEnemy1-64x64-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976a7e2edba7d4490800000000000000
+      internalID: -7760411626915256711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleEnemy1-64x64-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ca9e11f71894f90800000000000000
+      internalID: -6968896565617775498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleEnemy1-64x64-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64834582b403f0710800000000000000
+      internalID: 1661599886880290886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fea6f10f514fffc4789ca7228645280a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IdleEnemy1-64x64-Sheet_0: -3411135937833845039
+      IdleEnemy1-64x64-Sheet_1: 8038254806656564352
+      IdleEnemy1-64x64-Sheet_10: 1661599886880290886
+      IdleEnemy1-64x64-Sheet_2: 4276353292662106355
+      IdleEnemy1-64x64-Sheet_3: -2688716920334211078
+      IdleEnemy1-64x64-Sheet_4: -544108994060436970
+      IdleEnemy1-64x64-Sheet_5: -2904760987035733800
+      IdleEnemy1-64x64-Sheet_6: -1841354146993454353
+      IdleEnemy1-64x64-Sheet_7: -7722404970770178076
+      IdleEnemy1-64x64-Sheet_8: -7760411626915256711
+      IdleEnemy1-64x64-Sheet_9: -6968896565617775498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

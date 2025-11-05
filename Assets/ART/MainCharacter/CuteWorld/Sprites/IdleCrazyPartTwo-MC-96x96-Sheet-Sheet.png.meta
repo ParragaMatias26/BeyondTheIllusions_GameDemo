@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: d3002682b25176a4d86d1db564693659
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6269549063012281568
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_0
+  - first:
+      213: 6602725166355279023
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_1
+  - first:
+      213: -2295676058079496368
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_2
+  - first:
+      213: 6442361909608837706
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_3
+  - first:
+      213: 3478199027582517527
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_4
+  - first:
+      213: 1272149828918458704
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_5
+  - first:
+      213: 3346606751025235202
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_6
+  - first:
+      213: 4130097094175866563
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_7
+  - first:
+      213: 5313256284658583832
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_8
+  - first:
+      213: -4754277874763319405
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_9
+  - first:
+      213: -153009701786531123
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_10
+  - first:
+      213: -9180739531317539292
+    second: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023154d38561ef8a0800000000000000
+      internalID: -6269549063012281568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac632a5e8791ab50800000000000000
+      internalID: 6602725166355279023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0577dc6c9ce1420e0800000000000000
+      internalID: -2295676058079496368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42fdb0160ed76950800000000000000
+      internalID: 6442361909608837706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7114a29569b054030800000000000000
+      internalID: 3478199027582517527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05932cd778597a110800000000000000
+      internalID: 1272149828918458704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20588c5eb19817e20800000000000000
+      internalID: 3346606751025235202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceb93acc6d015930800000000000000
+      internalID: 4130097094175866563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819cfa7a07a7cb940800000000000000
+      internalID: 5313256284658583832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397bb3f4679650eb0800000000000000
+      internalID: -4754277874763319405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca43d5ac7660edf0800000000000000
+      internalID: -153009701786531123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e8e64b906779080800000000000000
+      internalID: -9180739531317539292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 415ad652bc21dd14ab7fe3a562d97289
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_0: -6269549063012281568
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_1: 6602725166355279023
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_10: -153009701786531123
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_11: -9180739531317539292
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_2: -2295676058079496368
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_3: 6442361909608837706
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_4: 3478199027582517527
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_5: 1272149828918458704
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_6: 3346606751025235202
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_7: 4130097094175866563
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_8: 5313256284658583832
+      IdleCrazyPartTwo-MC-96x96-Sheet-Sheet_9: -4754277874763319405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11f424d7ec8384c4e941718cba9a87f8, type: 3}
+  m_Name: UIA_Inventory_ToDark
+  m_EditorClassIdentifier: 
+  animationName: ToDark
+  frames:
+  - {fileID: -7052153938123375146, guid: 5d130c7806c6f1f469d203c8133247ed, type: 3}
+  - {fileID: 211091317251565883, guid: 5d130c7806c6f1f469d203c8133247ed, type: 3}
+  - {fileID: 7708071718655012129, guid: 5d130c7806c6f1f469d203c8133247ed, type: 3}
+  - {fileID: 7001781596251030274, guid: 5d130c7806c6f1f469d203c8133247ed, type: 3}
+  frameRate: 12
+  loop: 0
+  hasExitTime: 1

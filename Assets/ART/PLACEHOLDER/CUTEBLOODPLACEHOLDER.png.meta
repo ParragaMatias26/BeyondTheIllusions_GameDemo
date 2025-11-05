@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 616e6bd59cc92e94d97840338864534a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6411579229459690537
+    second: CUTEBLOODPLACEHOLDER_0
+  - first:
+      213: -7755617637497771112
+    second: CUTEBLOODPLACEHOLDER_1
+  - first:
+      213: 9119732513922549645
+    second: CUTEBLOODPLACEHOLDER_2
+  - first:
+      213: -2653970114794019391
+    second: CUTEBLOODPLACEHOLDER_3
+  - first:
+      213: 2874124996512934176
+    second: CUTEBLOODPLACEHOLDER_4
+  - first:
+      213: 4073489146564771943
+    second: CUTEBLOODPLACEHOLDER_5
+  - first:
+      213: 1771292478211805845
+    second: CUTEBLOODPLACEHOLDER_6
+  - first:
+      213: 1059447884631641387
+    second: CUTEBLOODPLACEHOLDER_7
+  - first:
+      213: 8164582322290115239
+    second: CUTEBLOODPLACEHOLDER_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CUTEBLOODPLACEHOLDER_0
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 735
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924b735d6518af850800000000000000
+      internalID: 6411579229459690537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUTEBLOODPLACEHOLDER_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 745
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89be03789d28e5490800000000000000
+      internalID: -7755617637497771112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUTEBLOODPLACEHOLDER_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 240
+        width: 679
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d870fea276ccf8e70800000000000000
+      internalID: 9119732513922549645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUTEBLOODPLACEHOLDER_3
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 624
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5233fed343b2bd0800000000000000
+      internalID: -2653970114794019391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUTEBLOODPLACEHOLDER_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 562
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0296931e471f2e720800000000000000
+      internalID: 2874124996512934176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUTEBLOODPLACEHOLDER_5
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 519
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7600769ebc0f78830800000000000000
+      internalID: 4073489146564771943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUTEBLOODPLACEHOLDER_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592d22dcf15e49810800000000000000
+      internalID: 1771292478211805845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUTEBLOODPLACEHOLDER_7
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 471
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d0285ec3ae3be00800000000000000
+      internalID: 1059447884631641387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUTEBLOODPLACEHOLDER_8
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 404
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a249834d5c6e4170800000000000000
+      internalID: 8164582322290115239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CUTEBLOODPLACEHOLDER_0: 6411579229459690537
+      CUTEBLOODPLACEHOLDER_1: -7755617637497771112
+      CUTEBLOODPLACEHOLDER_2: 9119732513922549645
+      CUTEBLOODPLACEHOLDER_3: -2653970114794019391
+      CUTEBLOODPLACEHOLDER_4: 2874124996512934176
+      CUTEBLOODPLACEHOLDER_5: 4073489146564771943
+      CUTEBLOODPLACEHOLDER_6: 1771292478211805845
+      CUTEBLOODPLACEHOLDER_7: 1059447884631641387
+      CUTEBLOODPLACEHOLDER_8: 8164582322290115239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

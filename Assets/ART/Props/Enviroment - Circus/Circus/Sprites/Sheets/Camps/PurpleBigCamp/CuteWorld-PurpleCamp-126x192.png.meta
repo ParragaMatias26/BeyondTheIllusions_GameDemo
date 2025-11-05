@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 8b8c8d1b012d09941911a455c8bcfcda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5344012479723014931
+    second: CuteWorld-PurpleCamp-126x192_0
+  - first:
+      213: -4348180066073999379
+    second: CuteWorld-PurpleCamp-126x192_1
+  - first:
+      213: -610593778377584626
+    second: CuteWorld-PurpleCamp-126x192_2
+  - first:
+      213: 5511944380843929226
+    second: CuteWorld-PurpleCamp-126x192_3
+  - first:
+      213: -389222242666670588
+    second: CuteWorld-PurpleCamp-126x192_4
+  - first:
+      213: 7720494609475782488
+    second: CuteWorld-PurpleCamp-126x192_5
+  - first:
+      213: 3130466905671890336
+    second: CuteWorld-PurpleCamp-126x192_6
+  - first:
+      213: -2273259023024613166
+    second: CuteWorld-PurpleCamp-126x192_7
+  - first:
+      213: -3052709654686003412
+    second: CuteWorld-PurpleCamp-126x192_8
+  - first:
+      213: 7478994828800627763
+    second: CuteWorld-PurpleCamp-126x192_9
+  - first:
+      213: -5571079011900265380
+    second: CuteWorld-PurpleCamp-126x192_10
+  - first:
+      213: 3185092763493001189
+    second: CuteWorld-PurpleCamp-126x192_11
+  - first:
+      213: 8501692689956576635
+    second: CuteWorld-PurpleCamp-126x192_12
+  - first:
+      213: 9179652520823863883
+    second: CuteWorld-PurpleCamp-126x192_13
+  - first:
+      213: -5637227084759722824
+    second: CuteWorld-PurpleCamp-126x192_14
+  - first:
+      213: -8888269432787248516
+    second: CuteWorld-PurpleCamp-126x192_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4fad6a6f046d5b0800000000000000
+      internalID: -5344012479723014931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7893e744928a3c0800000000000000
+      internalID: -4348180066073999379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e009db1913cb687f0800000000000000
+      internalID: -610593778377584626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ea9e9f53c5e7c40800000000000000
+      internalID: 5511944380843929226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4061c27be64399af0800000000000000
+      internalID: -389222242666670588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8574f1041f4b42b60800000000000000
+      internalID: 7720494609475782488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a570b59017a17b20800000000000000
+      internalID: 3130466905671890336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_7
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d89a2a76f2c370e0800000000000000
+      internalID: -2273259023024613166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f09063eb892a5d0800000000000000
+      internalID: -3052709654686003412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_9
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33415afdb2abac760800000000000000
+      internalID: 7478994828800627763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_10
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cec00d72d8fa2b0800000000000000
+      internalID: -5571079011900265380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_11
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7eaa83ef8b33c20800000000000000
+      internalID: 3185092763493001189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_12
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d956625741cf570800000000000000
+      internalID: 8501692689956576635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_13
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ab931f45da46f70800000000000000
+      internalID: 9179652520823863883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_14
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b49fae65db84c1b0800000000000000
+      internalID: -5637227084759722824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-PurpleCamp-126x192_15
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 126
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ad0cefa0686a480800000000000000
+      internalID: -8888269432787248516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ac6b055a21a6abb419809a33aa35f7d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CuteWorld-PurpleCamp-126x192_0: -5344012479723014931
+      CuteWorld-PurpleCamp-126x192_1: -4348180066073999379
+      CuteWorld-PurpleCamp-126x192_10: -5571079011900265380
+      CuteWorld-PurpleCamp-126x192_11: 3185092763493001189
+      CuteWorld-PurpleCamp-126x192_12: 8501692689956576635
+      CuteWorld-PurpleCamp-126x192_13: 9179652520823863883
+      CuteWorld-PurpleCamp-126x192_14: -5637227084759722824
+      CuteWorld-PurpleCamp-126x192_15: -8888269432787248516
+      CuteWorld-PurpleCamp-126x192_2: -610593778377584626
+      CuteWorld-PurpleCamp-126x192_3: 5511944380843929226
+      CuteWorld-PurpleCamp-126x192_4: -389222242666670588
+      CuteWorld-PurpleCamp-126x192_5: 7720494609475782488
+      CuteWorld-PurpleCamp-126x192_6: 3130466905671890336
+      CuteWorld-PurpleCamp-126x192_7: -2273259023024613166
+      CuteWorld-PurpleCamp-126x192_8: -3052709654686003412
+      CuteWorld-PurpleCamp-126x192_9: 7478994828800627763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

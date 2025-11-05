@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 7d50b897768ada347b15a892d3d46401
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6206131468495588074
+    second: CuteWorldPinkDoor-Open-96x96_0
+  - first:
+      213: 5025491319681104169
+    second: CuteWorldPinkDoor-Open-96x96_1
+  - first:
+      213: -2823007160985052643
+    second: CuteWorldPinkDoor-Open-96x96_2
+  - first:
+      213: 6874378075766557926
+    second: CuteWorldPinkDoor-Open-96x96_3
+  - first:
+      213: -8176926744866305686
+    second: CuteWorldPinkDoor-Open-96x96_4
+  - first:
+      213: -2390507136891201220
+    second: CuteWorldPinkDoor-Open-96x96_5
+  - first:
+      213: -1165796834875883808
+    second: CuteWorldPinkDoor-Open-96x96_6
+  - first:
+      213: -8701785743115095681
+    second: CuteWorldPinkDoor-Open-96x96_7
+  - first:
+      213: -757806663978165504
+    second: CuteWorldPinkDoor-Open-96x96_8
+  - first:
+      213: -30135457436709947
+    second: CuteWorldPinkDoor-Open-96x96_9
+  - first:
+      213: -3911373526379462031
+    second: CuteWorldPinkDoor-Open-96x96_10
+  - first:
+      213: -3830409089693422013
+    second: CuteWorldPinkDoor-Open-96x96_11
+  - first:
+      213: -2784260300222521390
+    second: CuteWorldPinkDoor-Open-96x96_12
+  - first:
+      213: -7014766435302214271
+    second: CuteWorldPinkDoor-Open-96x96_13
+  - first:
+      213: 7065060015123460697
+    second: CuteWorldPinkDoor-Open-96x96_14
+  - first:
+      213: 3095456827467143183
+    second: CuteWorldPinkDoor-Open-96x96_15
+  - first:
+      213: -495805997857301560
+    second: CuteWorldPinkDoor-Open-96x96_16
+  - first:
+      213: 5569451435570388370
+    second: CuteWorldPinkDoor-Open-96x96_17
+  - first:
+      213: -5151100759536858373
+    second: CuteWorldPinkDoor-Open-96x96_18
+  - first:
+      213: 2587659810645310417
+    second: CuteWorldPinkDoor-Open-96x96_19
+  - first:
+      213: 4580024466976344422
+    second: CuteWorldPinkDoor-Open-96x96_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteWorldPinkDoor-Open-96x96_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea8d0960bb902650800000000000000
+      internalID: 6206131468495588074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorldPinkDoor-Open-96x96_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929b663aab12eb540800000000000000
+      internalID: 5025491319681104169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorldPinkDoor-Open-96x96_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a1a1ba1f9a2d8d0800000000000000
+      internalID: -2823007160985052643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorldPinkDoor-Open-96x96_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec8cc91072b66f50800000000000000
+      internalID: 6874378075766557926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorldPinkDoor-Open-96x96_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a694ad1e278b58e80800000000000000
+      internalID: -8176926744866305686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorldPinkDoor-Open-96x96_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395098ac6633ded0800000000000000
+      internalID: -2390507136891201220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorldPinkDoor-Open-96x96_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeb2f094f142dfe0800000000000000
+      internalID: -1165796834875883808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorldPinkDoor-Open-96x96_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71f01e78fb0d3780800000000000000
+      internalID: -8701785743115095681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorldPinkDoor-Open-96x96_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b5829aadabb75f0800000000000000
+      internalID: -757806663978165504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorldPinkDoor-Open-96x96_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb475c06ffe49ff0800000000000000
+      internalID: -30135457436709947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 31bc70c676c81bd4bb9ca56081213f9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CuteWorldPinkDoor-Open-96x96_0: 6206131468495588074
+      CuteWorldPinkDoor-Open-96x96_1: 5025491319681104169
+      CuteWorldPinkDoor-Open-96x96_2: -2823007160985052643
+      CuteWorldPinkDoor-Open-96x96_3: 6874378075766557926
+      CuteWorldPinkDoor-Open-96x96_4: -8176926744866305686
+      CuteWorldPinkDoor-Open-96x96_5: -2390507136891201220
+      CuteWorldPinkDoor-Open-96x96_6: -1165796834875883808
+      CuteWorldPinkDoor-Open-96x96_7: -8701785743115095681
+      CuteWorldPinkDoor-Open-96x96_8: -757806663978165504
+      CuteWorldPinkDoor-Open-96x96_9: -30135457436709947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

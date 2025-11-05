@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: caaa940d66c8ed84583c8b1cdd31c06d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8951466977723367535
+    second: DWTileset-Islas_0
+  - first:
+      213: -5801471202373474911
+    second: DWTileset-Islas_1
+  - first:
+      213: 7848175595141973675
+    second: DWTileset-Islas_2
+  - first:
+      213: 4869907130279248450
+    second: DWTileset-Islas_3
+  - first:
+      213: -8210692507087231450
+    second: DWTileset-Islas_4
+  - first:
+      213: 908255948011027467
+    second: DWTileset-Islas_5
+  - first:
+      213: -3544026979583564145
+    second: DWTileset-Islas_6
+  - first:
+      213: -5221602183216730579
+    second: DWTileset-Islas_7
+  - first:
+      213: -849498911326777344
+    second: DWTileset-Islas_8
+  - first:
+      213: 8877653894728993769
+    second: DWTileset-Islas_9
+  - first:
+      213: -1790653207115281923
+    second: DWTileset-Islas_10
+  - first:
+      213: 6143004361212281493
+    second: DWTileset-Islas_11
+  - first:
+      213: 4091140685581691305
+    second: DWTileset-Islas_12
+  - first:
+      213: -8797612817587694198
+    second: DWTileset-Islas_13
+  - first:
+      213: -8874573017560062749
+    second: DWTileset-Islas_14
+  - first:
+      213: 8594099663632903827
+    second: DWTileset-Islas_15
+  - first:
+      213: -5026428443716877313
+    second: DWTileset-Islas_16
+  - first:
+      213: 1664180279466643057
+    second: DWTileset-Islas_17
+  - first:
+      213: 4318536791243667211
+    second: DWTileset-Islas_18
+  - first:
+      213: 4996028704022605703
+    second: DWTileset-Islas_19
+  - first:
+      213: 8825288007972880360
+    second: DWTileset-Islas_20
+  - first:
+      213: -637487281616202365
+    second: DWTileset-Islas_21
+  - first:
+      213: 6060405710061826096
+    second: DWTileset-Islas_22
+  - first:
+      213: 1452601443416074180
+    second: DWTileset-Islas_23
+  - first:
+      213: 7818457248483144601
+    second: DWTileset-Islas_24
+  - first:
+      213: 8497750404883811074
+    second: DWTileset-Islas_25
+  - first:
+      213: -8794791940524501183
+    second: DWTileset-Islas_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DWTileset-Islas_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fb82ee53006c380800000000000000
+      internalID: -8951466977723367535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5eedfcda80d7fa0800000000000000
+      internalID: -5801471202373474911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 63
+        width: 177
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6c3535f125aec60800000000000000
+      internalID: 7848175595141973675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242cf6dabb2659340800000000000000
+      internalID: 4869907130279248450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626aa1bbaa2cd0e80800000000000000
+      internalID: -8210692507087231450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c355af8f5ca9c00800000000000000
+      internalID: 908255948011027467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8665873d3611dec0800000000000000
+      internalID: -3544026979583564145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 35
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e66f6ca742987b0800000000000000
+      internalID: -5221602183216730579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0005941bd39f534f0800000000000000
+      internalID: -849498911326777344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb4f227e23c33b70800000000000000
+      internalID: 8877653894728993769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9caf935625627e0800000000000000
+      internalID: -1790653207115281923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 52
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592cbb36be5504550800000000000000
+      internalID: 6143004361212281493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ae3a17c6a6c830800000000000000
+      internalID: 4091140685581691305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 54
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85134011c998e580800000000000000
+      internalID: -8797612817587694198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4e01b2cde27d480800000000000000
+      internalID: -8874573017560062749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ea42f4c10644770800000000000000
+      internalID: 8594099663632903827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 38
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3065b26f98e3ab0800000000000000
+      internalID: -5026428443716877313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ec1df952b581710800000000000000
+      internalID: 1664180279466643057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07b88fb4568eeb30800000000000000
+      internalID: 4318536791243667211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f2ceed2a5755540800000000000000
+      internalID: 4996028704022605703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8effcb35fa8b97a70800000000000000
+      internalID: 8825288007972880360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 40
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385df66e1b03727f0800000000000000
+      internalID: -637487281616202365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030fbf642e2ea1450800000000000000
+      internalID: 6060405710061826096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7e80b015da82410800000000000000
+      internalID: 1452601443416074180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 35
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9937a6b817db08c60800000000000000
+      internalID: 7818457248483144601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 33
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b080168f21ee570800000000000000
+      internalID: 8497750404883811074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DWTileset-Islas_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147919fa35f92f580800000000000000
+      internalID: -8794791940524501183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DWTileset-Islas_0: -8951466977723367535
+      DWTileset-Islas_1: -5801471202373474911
+      DWTileset-Islas_10: -1790653207115281923
+      DWTileset-Islas_11: 6143004361212281493
+      DWTileset-Islas_12: 4091140685581691305
+      DWTileset-Islas_13: -8797612817587694198
+      DWTileset-Islas_14: -8874573017560062749
+      DWTileset-Islas_15: 8594099663632903827
+      DWTileset-Islas_16: -5026428443716877313
+      DWTileset-Islas_17: 1664180279466643057
+      DWTileset-Islas_18: 4318536791243667211
+      DWTileset-Islas_19: 4996028704022605703
+      DWTileset-Islas_2: 7848175595141973675
+      DWTileset-Islas_20: 8825288007972880360
+      DWTileset-Islas_21: -637487281616202365
+      DWTileset-Islas_22: 6060405710061826096
+      DWTileset-Islas_23: 1452601443416074180
+      DWTileset-Islas_24: 7818457248483144601
+      DWTileset-Islas_25: 8497750404883811074
+      DWTileset-Islas_26: -8794791940524501183
+      DWTileset-Islas_3: 4869907130279248450
+      DWTileset-Islas_4: -8210692507087231450
+      DWTileset-Islas_5: 908255948011027467
+      DWTileset-Islas_6: -3544026979583564145
+      DWTileset-Islas_7: -5221602183216730579
+      DWTileset-Islas_8: -849498911326777344
+      DWTileset-Islas_9: 8877653894728993769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

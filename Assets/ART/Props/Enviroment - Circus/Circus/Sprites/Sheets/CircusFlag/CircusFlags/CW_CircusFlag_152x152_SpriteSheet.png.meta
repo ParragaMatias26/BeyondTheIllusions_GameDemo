@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: a73cccbc10a3a6d48a243471296c4d67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6251406957910004688
+    second: CW_CircusFlag_152x152_SpriteSheet_0
+  - first:
+      213: -5715601274944306115
+    second: CW_CircusFlag_152x152_SpriteSheet_1
+  - first:
+      213: -5867513372260957795
+    second: CW_CircusFlag_152x152_SpriteSheet_2
+  - first:
+      213: -2810737273340466585
+    second: CW_CircusFlag_152x152_SpriteSheet_3
+  - first:
+      213: -5389039429612914247
+    second: CW_CircusFlag_152x152_SpriteSheet_4
+  - first:
+      213: -8420337875408868410
+    second: CW_CircusFlag_152x152_SpriteSheet_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d391a0c18571c650800000000000000
+      internalID: 6251406957910004688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 760
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34cc294cea1ea0b0800000000000000
+      internalID: -5715601274944306115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 760
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d910883eca7629ea0800000000000000
+      internalID: -5867513372260957795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 760
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a679187514ef8d0800000000000000
+      internalID: -2810737273340466585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 760
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9395de0394635b0800000000000000
+      internalID: -5389039429612914247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 760
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbac7fa053f42b80800000000000000
+      internalID: -8420337875408868410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2444e5cce26c41ad543679f29c7d6
+      internalID: -1817069393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 608
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fd5105af0db4e47bf1ab8d779cd1b8
+      internalID: 775110834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f925723d79065384f9b1a88621aba130
+      internalID: 1548941373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 608
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758ba8475c707d94aa353f1c5b1e6fe4
+      internalID: 1450309753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 608
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991242abaf3bb3a489c491ae3f547cbf
+      internalID: 1716257756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 608
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe8f4add05aa5049a5a59d88265e6d1
+      internalID: 1882907667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec44588d803e26841aecbd93ccf40084
+      internalID: 504390231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 456
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529dc5bf2403a7488220dfb15cbd299
+      internalID: -1303471159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 456
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd02b6c418259a4e8d9b3bfbda0d742
+      internalID: -2082953447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 456
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac44d9abfa995a5449b9b7729039f9f4
+      internalID: -273840144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 456
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4b84eee0569a546a3e42ad6c973418
+      internalID: -1124385679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 456
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b92645d9aca6034287b6e4cfd71d51e
+      internalID: -765991990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc41c01d692a06144a6d57d3c950451e
+      internalID: 1652390189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d88ecef4e789345a0199b9fa179d1e
+      internalID: -1871041051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8d57fe1d21e6745baad79cad192d9e
+      internalID: 1036422084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 304
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9babaf7433210914d92dc0129b237994
+      internalID: -1577484194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 304
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f4c5cacd1ee2b4f96a4ed6f2a59f0a
+      internalID: -383666580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 304
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08caf79b9a8699468670de1dfd97cf7
+      internalID: -201349733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2b050af6e53b14dbb3946a586b07e9
+      internalID: 610709178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d009684f318f46f4c90b16c5744fef9c
+      internalID: -1435209775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191fc534662807144ae404825c914f14
+      internalID: -93804838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 152
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90bbaf2fb6a4234baac42fcc89e1041
+      internalID: -1276501536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 152
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f189005250af0f24c93acac23a877f17
+      internalID: 1108104249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 152
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d9728f4cadf58458c5e0a9a9b1b799
+      internalID: -2107178327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1215ce0987ceca44fb367c0e152285dd
+      internalID: -853834553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79fec8a894a2d040addc59089061a9a
+      internalID: 1309133698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223a30e84b2b5f245bc7f63bd8753b99
+      internalID: -1530882774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b9441911a0a24f8ebcbaebb93004d
+      internalID: 1746451795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26614dfce9a498f42aff2b1ae4d66be5
+      internalID: 819575408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CW_CircusFlag_152x152_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbd44617eec2bb4c836accaa1c75524
+      internalID: 1860445162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 946ef496486242d498a1764a5d1046f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CW_CircusFlag_152x152_SpriteSheet_0: 6251406957910004688
+      CW_CircusFlag_152x152_SpriteSheet_1: -5715601274944306115
+      CW_CircusFlag_152x152_SpriteSheet_10: 1716257756
+      CW_CircusFlag_152x152_SpriteSheet_11: 1882907667
+      CW_CircusFlag_152x152_SpriteSheet_12: 504390231
+      CW_CircusFlag_152x152_SpriteSheet_13: -1303471159
+      CW_CircusFlag_152x152_SpriteSheet_14: -2082953447
+      CW_CircusFlag_152x152_SpriteSheet_15: -273840144
+      CW_CircusFlag_152x152_SpriteSheet_16: -1124385679
+      CW_CircusFlag_152x152_SpriteSheet_17: -765991990
+      CW_CircusFlag_152x152_SpriteSheet_18: 1652390189
+      CW_CircusFlag_152x152_SpriteSheet_19: -1871041051
+      CW_CircusFlag_152x152_SpriteSheet_2: -5867513372260957795
+      CW_CircusFlag_152x152_SpriteSheet_20: 1036422084
+      CW_CircusFlag_152x152_SpriteSheet_21: -1577484194
+      CW_CircusFlag_152x152_SpriteSheet_22: -383666580
+      CW_CircusFlag_152x152_SpriteSheet_23: -201349733
+      CW_CircusFlag_152x152_SpriteSheet_24: 610709178
+      CW_CircusFlag_152x152_SpriteSheet_25: -1435209775
+      CW_CircusFlag_152x152_SpriteSheet_26: -93804838
+      CW_CircusFlag_152x152_SpriteSheet_27: -1276501536
+      CW_CircusFlag_152x152_SpriteSheet_28: 1108104249
+      CW_CircusFlag_152x152_SpriteSheet_29: -2107178327
+      CW_CircusFlag_152x152_SpriteSheet_3: -2810737273340466585
+      CW_CircusFlag_152x152_SpriteSheet_30: -853834553
+      CW_CircusFlag_152x152_SpriteSheet_31: 1309133698
+      CW_CircusFlag_152x152_SpriteSheet_32: -1530882774
+      CW_CircusFlag_152x152_SpriteSheet_33: 1746451795
+      CW_CircusFlag_152x152_SpriteSheet_34: 819575408
+      CW_CircusFlag_152x152_SpriteSheet_35: 1860445162
+      CW_CircusFlag_152x152_SpriteSheet_4: -5389039429612914247
+      CW_CircusFlag_152x152_SpriteSheet_5: -8420337875408868410
+      CW_CircusFlag_152x152_SpriteSheet_6: -1817069393
+      CW_CircusFlag_152x152_SpriteSheet_7: 775110834
+      CW_CircusFlag_152x152_SpriteSheet_8: 1548941373
+      CW_CircusFlag_152x152_SpriteSheet_9: 1450309753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

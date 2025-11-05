@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: d08a82626b8f1564d8d1342d0d64fe8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2014008602244926188
+    second: WalkingEnemy1-64x64-Sheet_0
+  - first:
+      213: 7751269916873943556
+    second: WalkingEnemy1-64x64-Sheet_1
+  - first:
+      213: -7160034005024861216
+    second: WalkingEnemy1-64x64-Sheet_2
+  - first:
+      213: 4999795423229474459
+    second: WalkingEnemy1-64x64-Sheet_3
+  - first:
+      213: -5635105697000773416
+    second: WalkingEnemy1-64x64-Sheet_4
+  - first:
+      213: -2541554227896552314
+    second: WalkingEnemy1-64x64-Sheet_5
+  - first:
+      213: -8463438704184398417
+    second: WalkingEnemy1-64x64-Sheet_6
+  - first:
+      213: 3489264991499336077
+    second: WalkingEnemy1-64x64-Sheet_7
+  - first:
+      213: 3316005695148644032
+    second: WalkingEnemy1-64x64-Sheet_8
+  - first:
+      213: 4468623106277385259
+    second: WalkingEnemy1-64x64-Sheet_9
+  - first:
+      213: 2682613155645473651
+    second: WalkingEnemy1-64x64-Sheet_10
+  - first:
+      213: 5357798042987468900
+    second: WalkingEnemy1-64x64-Sheet_11
+  - first:
+      213: -1607106194639955635
+    second: WalkingEnemy1-64x64-Sheet_12
+  - first:
+      213: -754584985367429122
+    second: WalkingEnemy1-64x64-Sheet_13
+  - first:
+      213: -8575058794082647679
+    second: WalkingEnemy1-64x64-Sheet_14
+  - first:
+      213: 4155966739868817164
+    second: WalkingEnemy1-64x64-Sheet_15
+  - first:
+      213: -1090847276205603487
+    second: WalkingEnemy1-64x64-Sheet_16
+  - first:
+      213: -6832488043458919906
+    second: WalkingEnemy1-64x64-Sheet_17
+  - first:
+      213: -2373271101455433909
+    second: WalkingEnemy1-64x64-Sheet_18
+  - first:
+      213: -3914292807763570745
+    second: WalkingEnemy1-64x64-Sheet_19
+  - first:
+      213: -1839667650067631094
+    second: WalkingEnemy1-64x64-Sheet_20
+  - first:
+      213: -6620131971964884415
+    second: WalkingEnemy1-64x64-Sheet_21
+  - first:
+      213: 5201128485573320398
+    second: WalkingEnemy1-64x64-Sheet_22
+  - first:
+      213: 2961486584584202684
+    second: WalkingEnemy1-64x64-Sheet_23
+  - first:
+      213: -5419744541383370877
+    second: WalkingEnemy1-64x64-Sheet_24
+  - first:
+      213: -3270757972894256047
+    second: WalkingEnemy1-64x64-Sheet_25
+  - first:
+      213: 1272902276366739286
+    second: WalkingEnemy1-64x64-Sheet_26
+  - first:
+      213: -3137243476003856776
+    second: WalkingEnemy1-64x64-Sheet_27
+  - first:
+      213: -958483673635904440
+    second: WalkingEnemy1-64x64-Sheet_28
+  - first:
+      213: 2516446175095245233
+    second: WalkingEnemy1-64x64-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4153c90d8ddcc04e0800000000000000
+      internalID: -2014008602244926188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a6171ebea029b60800000000000000
+      internalID: 7751269916873943556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e396c6020372ac90800000000000000
+      internalID: -7160034005024861216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9677378277d26540800000000000000
+      internalID: 4999795423229474459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d82d7289351cc1b0800000000000000
+      internalID: -5635105697000773416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68475dc35e59abcd0800000000000000
+      internalID: -2541554227896552314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadebcaf653db8a80800000000000000
+      internalID: -8463438704184398417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d893689d50c5c6030800000000000000
+      internalID: 3489264991499336077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6d18c5c91d40e20800000000000000
+      internalID: 3316005695148644032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2424c41a0db30e30800000000000000
+      internalID: 4468623106277385259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373c904b37e8a3520800000000000000
+      internalID: 2682613155645473651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingEnemy1-64x64-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4681d8aeee8ba5a40800000000000000
+      internalID: 5357798042987468900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 66df4ffbdb6280c4a901f0086d711471
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WalkingEnemy1-64x64-Sheet_0: -2014008602244926188
+      WalkingEnemy1-64x64-Sheet_1: 7751269916873943556
+      WalkingEnemy1-64x64-Sheet_10: 2682613155645473651
+      WalkingEnemy1-64x64-Sheet_11: 5357798042987468900
+      WalkingEnemy1-64x64-Sheet_2: -7160034005024861216
+      WalkingEnemy1-64x64-Sheet_3: 4999795423229474459
+      WalkingEnemy1-64x64-Sheet_4: -5635105697000773416
+      WalkingEnemy1-64x64-Sheet_5: -2541554227896552314
+      WalkingEnemy1-64x64-Sheet_6: -8463438704184398417
+      WalkingEnemy1-64x64-Sheet_7: 3489264991499336077
+      WalkingEnemy1-64x64-Sheet_8: 3316005695148644032
+      WalkingEnemy1-64x64-Sheet_9: 4468623106277385259
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11f424d7ec8384c4e941718cba9a87f8, type: 3}
+  m_Name: UIA_CuteIddle
+  m_EditorClassIdentifier: 
+  animationName: CuteIddle
+  frames:
+  - {fileID: -2527597079588000062, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  - {fileID: -2232169335677434340, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  - {fileID: 6675280755945997633, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  - {fileID: 7863690202622347796, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  - {fileID: -1315944638035071312, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  - {fileID: -739233357862540186, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  - {fileID: -7729112540860029474, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  - {fileID: 7980280250856960785, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  - {fileID: 4887188449331303680, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  - {fileID: 2521569078158537944, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  - {fileID: -6879791322339754619, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  - {fileID: 2818639525706672738, guid: 8e776b22c0b5f2143a8b2f106144adb1, type: 3}
+  frameRate: 12
+  loop: 1
+  hasExitTime: 0

@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 274c6512e1bea2c4fa388406a6db9df0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 616272635701227097
+    second: ExplosionMushroom-128x128_0
+  - first:
+      213: -2315396560225668958
+    second: ExplosionMushroom-128x128_1
+  - first:
+      213: 2675709109324827976
+    second: ExplosionMushroom-128x128_2
+  - first:
+      213: 8707363244369333815
+    second: ExplosionMushroom-128x128_3
+  - first:
+      213: -2730879388943411282
+    second: ExplosionMushroom-128x128_4
+  - first:
+      213: -2689078039379165976
+    second: ExplosionMushroom-128x128_5
+  - first:
+      213: -8400043447961557704
+    second: ExplosionMushroom-128x128_6
+  - first:
+      213: -7425275255162595828
+    second: ExplosionMushroom-128x128_7
+  - first:
+      213: -7032889021744967353
+    second: ExplosionMushroom-128x128_8
+  - first:
+      213: -6724949525336015639
+    second: ExplosionMushroom-128x128_9
+  - first:
+      213: -8419490636608841751
+    second: ExplosionMushroom-128x128_10
+  - first:
+      213: 7830402475554828182
+    second: ExplosionMushroom-128x128_11
+  - first:
+      213: 2285373092880061944
+    second: ExplosionMushroom-128x128_12
+  - first:
+      213: -2380030881544014983
+    second: ExplosionMushroom-128x128_13
+  - first:
+      213: 2165886878666289068
+    second: ExplosionMushroom-128x128_14
+  - first:
+      213: -2425532154783612890
+    second: ExplosionMushroom-128x128_15
+  - first:
+      213: 1841656979962447948
+    second: ExplosionMushroom-128x128_16
+  - first:
+      213: 1866823684998700125
+    second: ExplosionMushroom-128x128_17
+  - first:
+      213: 7664014249047504266
+    second: ExplosionMushroom-128x128_18
+  - first:
+      213: 8248628788220896340
+    second: ExplosionMushroom-128x128_19
+  - first:
+      213: 2684291476414800931
+    second: ExplosionMushroom-128x128_20
+  - first:
+      213: 2714958025042363344
+    second: ExplosionMushroom-128x128_21
+  - first:
+      213: 2569229544683486935
+    second: ExplosionMushroom-128x128_22
+  - first:
+      213: 2984629415345953742
+    second: ExplosionMushroom-128x128_23
+  - first:
+      213: -4094968534159443328
+    second: ExplosionMushroom-128x128_24
+  - first:
+      213: 2321438036114213593
+    second: ExplosionMushroom-128x128_25
+  - first:
+      213: 5217146581632639361
+    second: ExplosionMushroom-128x128_26
+  - first:
+      213: -7149786329303541839
+    second: ExplosionMushroom-128x128_27
+  - first:
+      213: 699937810836031001
+    second: ExplosionMushroom-128x128_28
+  - first:
+      213: -3800366104448236952
+    second: ExplosionMushroom-128x128_29
+  - first:
+      213: -139678371893736957
+    second: ExplosionMushroom-128x128_30
+  - first:
+      213: 2033656180951114116
+    second: ExplosionMushroom-128x128_31
+  - first:
+      213: -3295108821740387781
+    second: ExplosionMushroom-128x128_32
+  - first:
+      213: -7910838353211990908
+    second: ExplosionMushroom-128x128_33
+  - first:
+      213: -5473596967344137879
+    second: ExplosionMushroom-128x128_34
+  - first:
+      213: -5334415788632797315
+    second: ExplosionMushroom-128x128_35
+  - first:
+      213: 6440948806670952455
+    second: ExplosionMushroom-128x128_36
+  - first:
+      213: 5407594406562094761
+    second: ExplosionMushroom-128x128_37
+  - first:
+      213: -8591684149735833794
+    second: ExplosionMushroom-128x128_38
+  - first:
+      213: 5387009511025152715
+    second: ExplosionMushroom-128x128_39
+  - first:
+      213: -2101285724655127922
+    second: ExplosionMushroom-128x128_40
+  - first:
+      213: -1986146979517127003
+    second: ExplosionMushroom-128x128_41
+  - first:
+      213: 213676572425376691
+    second: ExplosionMushroom-128x128_42
+  - first:
+      213: -3369944304291566609
+    second: ExplosionMushroom-128x128_43
+  - first:
+      213: -6382034117052306738
+    second: ExplosionMushroom-128x128_44
+  - first:
+      213: -4079226564300941080
+    second: ExplosionMushroom-128x128_45
+  - first:
+      213: -8395138771934136791
+    second: ExplosionMushroom-128x128_46
+  - first:
+      213: -4813529364218607456
+    second: ExplosionMushroom-128x128_47
+  - first:
+      213: 2015495422176865615
+    second: ExplosionMushroom-128x128_48
+  - first:
+      213: -7809552103457772332
+    second: ExplosionMushroom-128x128_49
+  - first:
+      213: 7562407722758357478
+    second: ExplosionMushroom-128x128_50
+  - first:
+      213: 6886496698526593017
+    second: ExplosionMushroom-128x128_51
+  - first:
+      213: 7613230211522295325
+    second: ExplosionMushroom-128x128_52
+  - first:
+      213: -6646228479937833949
+    second: ExplosionMushroom-128x128_53
+  - first:
+      213: -2218849525419555669
+    second: ExplosionMushroom-128x128_54
+  - first:
+      213: 956494268561697930
+    second: ExplosionMushroom-128x128_55
+  - first:
+      213: -1659942847625518085
+    second: ExplosionMushroom-128x128_56
+  - first:
+      213: -9194439322316321732
+    second: ExplosionMushroom-128x128_57
+  - first:
+      213: 3047532471297797006
+    second: ExplosionMushroom-128x128_58
+  - first:
+      213: 3500011228118969095
+    second: ExplosionMushroom-128x128_59
+  - first:
+      213: -8015564103136950853
+    second: ExplosionMushroom-128x128_60
+  - first:
+      213: 1881656802145160030
+    second: ExplosionMushroom-128x128_61
+  - first:
+      213: 450823927508227831
+    second: ExplosionMushroom-128x128_62
+  - first:
+      213: 6843559799458963209
+    second: ExplosionMushroom-128x128_63
+  - first:
+      213: 4800805646259222763
+    second: ExplosionMushroom-128x128_64
+  - first:
+      213: -1471695922856158352
+    second: ExplosionMushroom-128x128_65
+  - first:
+      213: 5230219153985844340
+    second: ExplosionMushroom-128x128_66
+  - first:
+      213: 324477907015359815
+    second: ExplosionMushroom-128x128_67
+  - first:
+      213: 3796388261732517177
+    second: ExplosionMushroom-128x128_68
+  - first:
+      213: -3230610564702195757
+    second: ExplosionMushroom-128x128_69
+  - first:
+      213: 8321492415749494096
+    second: ExplosionMushroom-128x128_70
+  - first:
+      213: 6896783404189594070
+    second: ExplosionMushroom-128x128_71
+  - first:
+      213: 798616168933476389
+    second: ExplosionMushroom-128x128_72
+  - first:
+      213: 7393097308576474025
+    second: ExplosionMushroom-128x128_73
+  - first:
+      213: -1400953537630216179
+    second: ExplosionMushroom-128x128_74
+  - first:
+      213: 7666254652377258819
+    second: ExplosionMushroom-128x128_75
+  - first:
+      213: -5791475408568493600
+    second: ExplosionMushroom-128x128_76
+  - first:
+      213: 4152105339203120578
+    second: ExplosionMushroom-128x128_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExplosionMushroom-128x128_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ee3cf62b07d8800800000000000000
+      internalID: 616272635701227097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionMushroom-128x128_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a07691981f0edfd0800000000000000
+      internalID: -2315396560225668958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionMushroom-128x128_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d45972247022520800000000000000
+      internalID: 2675709109324827976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionMushroom-128x128_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e4de6bcb4c6d870800000000000000
+      internalID: 8707363244369333815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionMushroom-128x128_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea797912aa7f91ad0800000000000000
+      internalID: -2730879388943411282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionMushroom-128x128_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec308145c97eaad0800000000000000
+      internalID: -2689078039379165976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionMushroom-128x128_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835676a4dfc0d6b80800000000000000
+      internalID: -8400043447961557704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5d9a9570bcf44134a851ee216054e0bb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ExplosionMushroom-128x128_0: 616272635701227097
+      ExplosionMushroom-128x128_1: -2315396560225668958
+      ExplosionMushroom-128x128_2: 2675709109324827976
+      ExplosionMushroom-128x128_3: 8707363244369333815
+      ExplosionMushroom-128x128_4: -2730879388943411282
+      ExplosionMushroom-128x128_5: -2689078039379165976
+      ExplosionMushroom-128x128_6: -8400043447961557704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

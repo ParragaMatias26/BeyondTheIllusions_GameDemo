@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: b582c6584c1b27b49a2ab58e3742704d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7494202021721898157
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_0
+  - first:
+      213: -500403568847507281
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_1
+  - first:
+      213: 2686982705701363979
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_2
+  - first:
+      213: 3996653449309682738
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_3
+  - first:
+      213: -6233016929007661115
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_4
+  - first:
+      213: 5434114679554205805
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_5
+  - first:
+      213: 5142655322365817461
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_6
+  - first:
+      213: -1647632314970318676
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_7
+  - first:
+      213: -1262110431251467046
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_8
+  - first:
+      213: -1370849031575249286
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_9
+  - first:
+      213: 4645154456269346942
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_10
+  - first:
+      213: -917609489056139116
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_11
+  - first:
+      213: 6718320201135026430
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_12
+  - first:
+      213: -4429301698614667351
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_13
+  - first:
+      213: -2269767512143185292
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_14
+  - first:
+      213: 5132902751188619327
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_15
+  - first:
+      213: 2815845800997888013
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_16
+  - first:
+      213: 1015668122470810874
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_17
+  - first:
+      213: 1436602497024128314
+    second: DarkWorld-Attack1Part1-ClownBoss-128x128_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac7fb36801c00860800000000000000
+      internalID: 7494202021721898157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0b18afa953e09f0800000000000000
+      internalID: -500403568847507281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01a2fad8841a4520800000000000000
+      internalID: 2686982705701363979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c71701327f67730800000000000000
+      internalID: 3996653449309682738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf80838020ef79a0800000000000000
+      internalID: -6233016929007661115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d686097828ad96b40800000000000000
+      internalID: 5434114679554205805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572f2ebc4c16e5740800000000000000
+      internalID: 5142655322365817461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca85db9932f6229e0800000000000000
+      internalID: -1647632314970318676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4f0fdef351c7ee0800000000000000
+      internalID: -1262110431251467046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ed440a114c9fce0800000000000000
+      internalID: -1370849031575249286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78d1cced57e67040800000000000000
+      internalID: 4645154456269346942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498f74a080ff343f0800000000000000
+      internalID: -917609489056139116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkWorld-Attack1Part1-ClownBoss-128x128_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0fbf3b0a44c3d50800000000000000
+      internalID: 6718320201135026430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c69d5c5490bc62e42a9f091eb922c38b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DarkWorld-Attack1Part1-ClownBoss-128x128_0: 7494202021721898157
+      DarkWorld-Attack1Part1-ClownBoss-128x128_1: -500403568847507281
+      DarkWorld-Attack1Part1-ClownBoss-128x128_10: 4645154456269346942
+      DarkWorld-Attack1Part1-ClownBoss-128x128_11: -917609489056139116
+      DarkWorld-Attack1Part1-ClownBoss-128x128_12: 6718320201135026430
+      DarkWorld-Attack1Part1-ClownBoss-128x128_2: 2686982705701363979
+      DarkWorld-Attack1Part1-ClownBoss-128x128_3: 3996653449309682738
+      DarkWorld-Attack1Part1-ClownBoss-128x128_4: -6233016929007661115
+      DarkWorld-Attack1Part1-ClownBoss-128x128_5: 5434114679554205805
+      DarkWorld-Attack1Part1-ClownBoss-128x128_6: 5142655322365817461
+      DarkWorld-Attack1Part1-ClownBoss-128x128_7: -1647632314970318676
+      DarkWorld-Attack1Part1-ClownBoss-128x128_8: -1262110431251467046
+      DarkWorld-Attack1Part1-ClownBoss-128x128_9: -1370849031575249286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

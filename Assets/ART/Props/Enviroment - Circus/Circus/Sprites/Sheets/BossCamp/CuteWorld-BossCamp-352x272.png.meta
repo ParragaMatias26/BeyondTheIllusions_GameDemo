@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: ab5049bf63fd66648a24c00898b1fbd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3110798761347607642
+    second: CuteWorld-BossCamp-352x272_0
+  - first:
+      213: -1802700887877084346
+    second: CuteWorld-BossCamp-352x272_1
+  - first:
+      213: -4767645585597336160
+    second: CuteWorld-BossCamp-352x272_2
+  - first:
+      213: -2210371572213960878
+    second: CuteWorld-BossCamp-352x272_3
+  - first:
+      213: -8461166832990925062
+    second: CuteWorld-BossCamp-352x272_4
+  - first:
+      213: 7258453838129846858
+    second: CuteWorld-BossCamp-352x272_5
+  - first:
+      213: 1020989156942764107
+    second: CuteWorld-BossCamp-352x272_6
+  - first:
+      213: -164223894975033963
+    second: CuteWorld-BossCamp-352x272_7
+  - first:
+      213: 6412681310911779557
+    second: CuteWorld-BossCamp-352x272_8
+  - first:
+      213: -3355513234259740282
+    second: CuteWorld-BossCamp-352x272_9
+  - first:
+      213: -1223735137307310611
+    second: CuteWorld-BossCamp-352x272_10
+  - first:
+      213: -6509820598220128978
+    second: CuteWorld-BossCamp-352x272_11
+  - first:
+      213: -1488722311418548445
+    second: CuteWorld-BossCamp-352x272_12
+  - first:
+      213: -3304638492410101015
+    second: CuteWorld-BossCamp-352x272_13
+  - first:
+      213: 3567815903521513278
+    second: CuteWorld-BossCamp-352x272_14
+  - first:
+      213: -7625522299928881210
+    second: CuteWorld-BossCamp-352x272_15
+  - first:
+      213: 1762983962576747981
+    second: CuteWorld-BossCamp-352x272_16
+  - first:
+      213: 1915479705496834751
+    second: CuteWorld-BossCamp-352x272_17
+  - first:
+      213: 5282543919785962986
+    second: CuteWorld-BossCamp-352x272_18
+  - first:
+      213: -2632442110479288119
+    second: CuteWorld-BossCamp-352x272_19
+  - first:
+      213: -5756927175891168457
+    second: CuteWorld-BossCamp-352x272_20
+  - first:
+      213: -7696370412906688931
+    second: CuteWorld-BossCamp-352x272_21
+  - first:
+      213: 4797824668597229306
+    second: CuteWorld-BossCamp-352x272_22
+  - first:
+      213: 5225739086779628783
+    second: CuteWorld-BossCamp-352x272_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c69d1edf6cb2b20800000000000000
+      internalID: 3110798761347607642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1088
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b1ec5f7158bf6e0800000000000000
+      internalID: -1802700887877084346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1088
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5f287999be5ddb0800000000000000
+      internalID: -4767645585597336160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_3
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1088
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fa09024ce2351e0800000000000000
+      internalID: -2210371572213960878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1088
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe42463895e39a80800000000000000
+      internalID: -8461166832990925062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4adc401f453bb460800000000000000
+      internalID: 7258453838129846858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 816
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4859139a384b2e00800000000000000
+      internalID: 1020989156942764107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 816
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dc164dc3f88bdf0800000000000000
+      internalID: -164223894975033963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 816
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2deaa2dab6ef850800000000000000
+      internalID: 6412681310911779557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_9
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 816
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68973d0ed72de61d0800000000000000
+      internalID: -3355513234259740282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de542a1506b640fe0800000000000000
+      internalID: -1223735137307310611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 544
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d719b08a878a5a0800000000000000
+      internalID: -6509820598220128978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 544
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fe2b202fef65be0800000000000000
+      internalID: -1488722311418548445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_13
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 544
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e240d4ccc09322d0800000000000000
+      internalID: -3304638492410101015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_14
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 544
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f936149ad638130800000000000000
+      internalID: 3567815903521513278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c75be5bed3bc2690800000000000000
+      internalID: -7625522299928881210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 272
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf812c290677810800000000000000
+      internalID: 1762983962576747981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 272
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2db9cb4a6259a10800000000000000
+      internalID: 1915479705496834751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_18
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 272
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeded39f4bd5f4940800000000000000
+      internalID: 5282543919785962986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_19
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 272
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c83a1909dfa77bd0800000000000000
+      internalID: -2632442110479288119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733d63b2c394b10b0800000000000000
+      internalID: -5756927175891168457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5eced6f2eff03590800000000000000
+      internalID: -7696370412906688931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6185abd1c459240800000000000000
+      internalID: 4797824668597229306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteWorld-BossCamp-352x272_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 352
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecbf54230e858840800000000000000
+      internalID: 5225739086779628783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f3c86b8342d08184a81094cafe98ee37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CuteWorld-BossCamp-352x272_0: 3110798761347607642
+      CuteWorld-BossCamp-352x272_1: -1802700887877084346
+      CuteWorld-BossCamp-352x272_10: -1223735137307310611
+      CuteWorld-BossCamp-352x272_11: -6509820598220128978
+      CuteWorld-BossCamp-352x272_12: -1488722311418548445
+      CuteWorld-BossCamp-352x272_13: -3304638492410101015
+      CuteWorld-BossCamp-352x272_14: 3567815903521513278
+      CuteWorld-BossCamp-352x272_15: -7625522299928881210
+      CuteWorld-BossCamp-352x272_16: 1762983962576747981
+      CuteWorld-BossCamp-352x272_17: 1915479705496834751
+      CuteWorld-BossCamp-352x272_18: 5282543919785962986
+      CuteWorld-BossCamp-352x272_19: -2632442110479288119
+      CuteWorld-BossCamp-352x272_2: -4767645585597336160
+      CuteWorld-BossCamp-352x272_20: -5756927175891168457
+      CuteWorld-BossCamp-352x272_21: -7696370412906688931
+      CuteWorld-BossCamp-352x272_22: 4797824668597229306
+      CuteWorld-BossCamp-352x272_23: 5225739086779628783
+      CuteWorld-BossCamp-352x272_3: -2210371572213960878
+      CuteWorld-BossCamp-352x272_4: -8461166832990925062
+      CuteWorld-BossCamp-352x272_5: 7258453838129846858
+      CuteWorld-BossCamp-352x272_6: 1020989156942764107
+      CuteWorld-BossCamp-352x272_7: -164223894975033963
+      CuteWorld-BossCamp-352x272_8: 6412681310911779557
+      CuteWorld-BossCamp-352x272_9: -3355513234259740282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

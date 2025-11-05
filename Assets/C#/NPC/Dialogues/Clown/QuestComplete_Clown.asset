@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f81721f12ab444f46bbaad5eb1feea7e, type: 3}
+  m_Name: QuestComplete_Clown
+  m_EditorClassIdentifier: 
+  lines:
+  - text: Vaya vaya! sabia que podia confiar en ti!
+    portraitIndex: 1
+    eventType: 0
+    waitTime: 0
+    myAnimator: {fileID: 0}
+    animEventName: 
+    customEventID: 
+    isCuteText: 1
+  - text: Gracias por recuperar mis hermosos globos, como agradecimiento, voy a utilizarlos
+      para reparar el puente hacia el circo.
+    portraitIndex: 1
+    eventType: 0
+    waitTime: 0
+    myAnimator: {fileID: 0}
+    animEventName: 
+    customEventID: 
+    isCuteText: 1
+  - text: Ahora pasa, y no te olvides de sonreir!
+    portraitIndex: 1
+    eventType: 0
+    waitTime: 0
+    myAnimator: {fileID: 0}
+    animEventName: 
+    customEventID: 
+    isCuteText: 1
+  - text: Aunque si los globos desaparecen otra vez...
+    portraitIndex: 0
+    eventType: 0
+    waitTime: 0
+    myAnimator: {fileID: 0}
+    animEventName: 
+    customEventID: 
+    isCuteText: 1
+  - text: "Jajaja es broma!... \xBFO no?..."
+    portraitIndex: 1
+    eventType: 0
+    waitTime: 0
+    myAnimator: {fileID: 0}
+    animEventName: 
+    customEventID: 
+    isCuteText: 1
