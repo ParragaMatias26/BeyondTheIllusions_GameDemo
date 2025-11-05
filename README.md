@@ -1,7 +1,8 @@
 # BeyondTheIllusions_GameDemo
 # 🌲 Project Demo — Unity Game Prototype
 
-![Banner del juego](https://via.placeholder.com/1000x300.png?text=Game+Banner)
+<img width="3504" height="1360" alt="Wallpaper" src="https://github.com/user-attachments/assets/ca64d88a-50f7-43d8-bb2d-5a107a113832" />
+
 
 ## 🎮 Descripción
 
@@ -43,13 +44,15 @@ Esta versión es una **demo jugable** pensada para mostrar las mecánicas base, 
 
 ## 🧑‍💻 Programador - Game Designer - Tecnical Artist
 
-**Matías [Párraga]**  
+**Matías Párraga**  
 Desarrollador independiente de videojuegos enfocado en diseño de sistemas, narrativa interactiva y dirección visual.  
+
 📫 Contacto: [tuemail@example.com]
 
 ## 🧑‍💻 Artist
-**Miaela [Lo Valvo]**
+**Miaela Lo Valvo**
 Artista enfocada en diseños y animaciones pixelart.
+
 📫 Contacto: [tuemail@example.com]
 
 ---
